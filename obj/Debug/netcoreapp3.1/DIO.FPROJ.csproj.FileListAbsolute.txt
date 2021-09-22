@@ -1,0 +1,14 @@
+C:\Users\Sup_03\Desktop\a\vinicius\DIO.FPROJ\bin\Debug\netcoreapp3.1\DIO.FPROJ.exe
+C:\Users\Sup_03\Desktop\a\vinicius\DIO.FPROJ\bin\Debug\netcoreapp3.1\DIO.FPROJ.deps.json
+C:\Users\Sup_03\Desktop\a\vinicius\DIO.FPROJ\bin\Debug\netcoreapp3.1\DIO.FPROJ.runtimeconfig.json
+C:\Users\Sup_03\Desktop\a\vinicius\DIO.FPROJ\bin\Debug\netcoreapp3.1\DIO.FPROJ.runtimeconfig.dev.json
+C:\Users\Sup_03\Desktop\a\vinicius\DIO.FPROJ\bin\Debug\netcoreapp3.1\DIO.FPROJ.dll
+C:\Users\Sup_03\Desktop\a\vinicius\DIO.FPROJ\bin\Debug\netcoreapp3.1\DIO.FPROJ.pdb
+C:\Users\Sup_03\Desktop\a\vinicius\DIO.FPROJ\obj\Debug\netcoreapp3.1\DIO.FPROJ.csproj.AssemblyReference.cache
+C:\Users\Sup_03\Desktop\a\vinicius\DIO.FPROJ\obj\Debug\netcoreapp3.1\DIO.FPROJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sup_03\Desktop\a\vinicius\DIO.FPROJ\obj\Debug\netcoreapp3.1\DIO.FPROJ.AssemblyInfoInputs.cache
+C:\Users\Sup_03\Desktop\a\vinicius\DIO.FPROJ\obj\Debug\netcoreapp3.1\DIO.FPROJ.AssemblyInfo.cs
+C:\Users\Sup_03\Desktop\a\vinicius\DIO.FPROJ\obj\Debug\netcoreapp3.1\DIO.FPROJ.csproj.CoreCompileInputs.cache
+C:\Users\Sup_03\Desktop\a\vinicius\DIO.FPROJ\obj\Debug\netcoreapp3.1\DIO.FPROJ.dll
+C:\Users\Sup_03\Desktop\a\vinicius\DIO.FPROJ\obj\Debug\netcoreapp3.1\DIO.FPROJ.pdb
+C:\Users\Sup_03\Desktop\a\vinicius\DIO.FPROJ\obj\Debug\netcoreapp3.1\DIO.FPROJ.genruntimeconfig.cache
